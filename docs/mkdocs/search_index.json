@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Gluu CE Server\n#\n\n\nVersions\n\n\n[\n3.0.1\n]     [\n3.0.0\n]         [\n2.4.4\n]\n\n\noxd\n#\n\n\nVersions:\n\n\n[\n3.0.0\n]     [\n2.4.4\n]",
+            "title": "Products"
+        },
+        {
+            "location": "/#gluu-ce-server",
+            "text": "Versions  [ 3.0.1 ]     [ 3.0.0 ]         [ 2.4.4 ]",
+            "title": "Gluu CE Server"
+        },
+        {
+            "location": "/#oxd",
+            "text": "Versions:  [ 3.0.0 ]     [ 2.4.4 ]",
+            "title": "oxd"
+        }
+    ]
+}
