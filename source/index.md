@@ -19,4 +19,7 @@ Versions:
 
 ***Super Gluu***
 
-[[2.4.4](./supergluu/2.4.4)]
+[[Beta release](./supergluu/2.4.4)]
+
+!!!Note
+	We don't recommend using it in production. If you'd like to help us beta test DE, please contact us and we'll provide you with test licenses.
