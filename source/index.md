@@ -16,10 +16,10 @@ Versions:
 
 ***Gluu Docker Edition***
 
-
+!!!Note
+	We don't recommend using it in production. If you'd like to help us beta test DE, please contact us and we'll provide you with test licenses.
+	
 ***Super Gluu***
 
 [[Beta release](./supergluu/2.4.4)]
 
-!!!Note
-	We don't recommend using it in production. If you'd like to help us beta test DE, please contact us and we'll provide you with test licenses.
