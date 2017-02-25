@@ -1,15 +1,11 @@
 # Gluu Product Documentation
 
 **Gluu Server Community Edition**
-
-Versions
 		
 [[Latest](./ce/3.0.1)]		[[3.0.0](./ce/3.0.0)] 		[[2.4.4](./ce/2.4.4)]
 
 
 **oxd**
-
-Versions:
 
 [[3.0.0](./oxd/3.0.0)]     [[2.4.4](./oxd/2.4.4)]
 
