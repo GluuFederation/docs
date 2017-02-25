@@ -12,7 +12,7 @@ Versions
 Versions:
 
 
-[[3.0.0](./oxd/3.0.0)]     [[2.4.4](./oxd/2.4.4)]
+[[Latest](./oxd/latest)]  [[3.0.0](./oxd/3.0.0)]     [[2.4.4](./oxd/2.4.4)]
 
 
 ***Super Gluu***
