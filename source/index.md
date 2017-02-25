@@ -19,7 +19,7 @@ Versions:
 [[3.0.0](./supergluu/3.0.0)]
 
 
-**Gluu Server Docker Edition (DE) (alpha)**
+**Gluu Server Docker Edition (DE) (*alpha*)**
 
 [[Alpha](./de/alpha)]
 
