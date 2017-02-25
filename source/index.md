@@ -14,12 +14,13 @@ Versions:
 
 [[3.0.0](./oxd/3.0.0)]     [[2.4.4](./oxd/2.4.4)]
 
-***Gluu Docker Edition***
 
-!!!Note
-	We don't recommend using it in production. If you'd like to help us beta test DE, please contact us and we'll provide you with test licenses.
-	
 ***Super Gluu***
 
-[[Beta release](./supergluu/2.4.4)]
+[[3.0.0](./supergluu/3.0.0)]
+
+***Gluu Server Docker Edition (DE) (alpha)***
+
+[[Alpha](./de/alpha)]
+
 
