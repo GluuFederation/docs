@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition\n\n\n[\nLatest\n]      [\n3.0.0\n]       [\n2.4.4\n]\n\n\noxd\n\n\n[\nLatest\n]  [\n3.0.0\n]     [\n2.4.4\n]\n\n\nSuper Gluu\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n\n\n[\nAlpha\n]",
+            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition\n\n\n\n\n\n[\n3.0.0\n]       [\n2.4.4\n]\n\n\noxd\n\n\n\n\n\n[\n3.0.0\n]     [\n2.4.4\n]\n\n\nSuper Gluu\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n\n\n[\nAlpha\n]",
             "title": "Products"
         },
         {
             "location": "/#gluu-product-documentation",
-            "text": "Gluu Server Community Edition  [ Latest ]      [ 3.0.0 ]       [ 2.4.4 ]  oxd  [ Latest ]  [ 3.0.0 ]     [ 2.4.4 ]  Super Gluu  [ 3.0.0 ]  Gluu Server Docker Edition (DE) ( alpha )  [ Alpha ]",
+            "text": "Gluu Server Community Edition   [ 3.0.0 ]       [ 2.4.4 ]  oxd   [ 3.0.0 ]     [ 2.4.4 ]  Super Gluu  [ 3.0.0 ]  Gluu Server Docker Edition (DE) ( alpha )  [ Alpha ]",
             "title": "Gluu Product Documentation"
         }
     ]
