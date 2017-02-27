@@ -1,6 +1,6 @@
 # Gluu Product Documentation
 
-**Gluu Server Community Edition**
+**Gluu Server Community Edition (CE)**
 		
 <!-- [[Latest](./ce/3.0.1)]		[[3.0.0](./ce/3.0.0)] 		[[2.4.4](./ce/2.4.4)] --> 
 [[3.0.0](./ce/3.0.0)] 		[[2.4.4](./ce/2.4.4)]
