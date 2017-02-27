@@ -19,7 +19,7 @@ Authentication Mobile Application for iOS and Android
 
 
 ### Gluu Server Docker Edition (DE) (*alpha*)
-Access Management Platform  
+Docker-ized version of the Gluu Server Access Management Platform  
 
 [[Alpha](./de/alpha)]
 
