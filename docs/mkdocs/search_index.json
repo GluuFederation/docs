@@ -2,13 +2,33 @@
     "docs": [
         {
             "location": "/",
-            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition\n\n\n\n\n\n[\n3.0.0\n]       [\n2.4.4\n]\n\n\noxd\n\n\n\n\n\n[\n3.0.0\n]     [\n2.4.4\n]\n\n\nSuper Gluu\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n\n\n[\nAlpha\n]",
+            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition (CE)\n#\n\n\nAccess Management Platform\n\n\n\n\n\n[\n3.0.0\n]       [\n2.4.4\n]\n\n\noxd\n#\n\n\nOAuth 2.0 Client Software\n\n\n\n\n\n[\n3.0.0\n]     [\n2.4.4\n]\n\n\nSuper Gluu\n#\n\n\nAuthentication Mobile Application for iOS and Android\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n#\n\n\nDocker-ized version of the Gluu Server Access Management Platform  \n\n\n[\nAlpha\n]",
             "title": "Products"
         },
         {
             "location": "/#gluu-product-documentation",
-            "text": "Gluu Server Community Edition   [ 3.0.0 ]       [ 2.4.4 ]  oxd   [ 3.0.0 ]     [ 2.4.4 ]  Super Gluu  [ 3.0.0 ]  Gluu Server Docker Edition (DE) ( alpha )  [ Alpha ]",
+            "text": "",
             "title": "Gluu Product Documentation"
+        },
+        {
+            "location": "/#gluu-server-community-edition-ce",
+            "text": "Access Management Platform   [ 3.0.0 ]       [ 2.4.4 ]",
+            "title": "Gluu Server Community Edition (CE)"
+        },
+        {
+            "location": "/#oxd",
+            "text": "OAuth 2.0 Client Software   [ 3.0.0 ]     [ 2.4.4 ]",
+            "title": "oxd"
+        },
+        {
+            "location": "/#super-gluu",
+            "text": "Authentication Mobile Application for iOS and Android  [ 3.0.0 ]",
+            "title": "Super Gluu"
+        },
+        {
+            "location": "/#gluu-server-docker-edition-de-alpha",
+            "text": "Docker-ized version of the Gluu Server Access Management Platform    [ Alpha ]",
+            "title": "Gluu Server Docker Edition (DE) (alpha)"
         }
     ]
 }
