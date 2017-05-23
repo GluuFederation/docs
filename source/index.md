@@ -16,11 +16,3 @@ OAuth 2.0 Client Software
 Authentication Mobile Application for iOS and Android
 
 [[3.0.0](./supergluu/3.0.0)]
-
-
-### Gluu Server Docker Edition (DE) (*alpha*)
-Docker-ized version of the Gluu Server Access Management Platform  
-
-[[Alpha](./de/alpha)]
-
-
