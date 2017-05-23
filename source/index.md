@@ -3,7 +3,7 @@
 ### Gluu Server Community Edition (CE) 
 Access Management Platform
 		
-<!--[[3.0.2](./ce/3.0.2)]--> [[3.0.1](./ce/3.0.1)] 	[[2.4.4](./ce/2.4.4)]
+<!--[[3.0.2](./ce/3.0.2)]-->  [[3.0.1](./ce/3.0.1)] 	[[2.4.4](./ce/2.4.4)]
 
 
 ### oxd 
