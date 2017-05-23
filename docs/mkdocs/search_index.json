@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition (CE)\n#\n\n\nAccess Management Platform\n\n\n[\n3.0.1\n]   [\n2.4.4\n]\n\n\noxd\n#\n\n\nOAuth 2.0 Client Software\n\n\n[\n3.0.1\n]  [\n2.4.4\n]\n\n\nSuper Gluu\n#\n\n\nAuthentication Mobile Application for iOS and Android\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n#\n\n\nDocker-ized version of the Gluu Server Access Management Platform  \n\n\n[\nAlpha\n]",
+            "text": "Gluu Product Documentation\n#\n\n\nGluu Server Community Edition (CE)\n#\n\n\nAccess Management Platform\n\n\n[\n3.0.2\n] [\n3.0.1\n]     [\n2.4.4\n]\n\n\noxd\n#\n\n\nOAuth 2.0 Client Software\n\n\n[\n3.0.1\n]  [\n2.4.4\n]\n\n\nSuper Gluu\n#\n\n\nAuthentication Mobile Application for iOS and Android\n\n\n[\n3.0.0\n]\n\n\nGluu Server Docker Edition (DE) (\nalpha\n)\n#\n\n\nDocker-ized version of the Gluu Server Access Management Platform  \n\n\n[\nAlpha\n]",
             "title": "Products"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#gluu-server-community-edition-ce",
-            "text": "Access Management Platform  [ 3.0.1 ]   [ 2.4.4 ]",
+            "text": "Access Management Platform  [ 3.0.2 ] [ 3.0.1 ]     [ 2.4.4 ]",
             "title": "Gluu Server Community Edition (CE)"
         },
         {
