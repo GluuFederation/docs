@@ -19,6 +19,6 @@ Authentication Mobile Application for iOS and Android
 [[3.0.0](./supergluu/3.0.0)]
 
 ## Gluu Cluster Manager
-Cluster Software to Enable clustering between GLuu CE Servers.
+Cluster Software to Enable clustering between Gluu CE Servers.
 
-[[Alpha]](./cm/Alpha)
+[[Alpha]](./cm/alpha)
