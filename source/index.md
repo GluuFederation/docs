@@ -13,7 +13,7 @@ Client software to secure applications with the OpenID Connect and UMA profiles 
 
 
 ## Super Gluu 
-Authentication mobile application for iOS and Android.
+Mobile application for iOS and Android to achieve strong authentication with the Gluu Server.
 
 [[3.0.0](./supergluu/3.0.0)]
 
