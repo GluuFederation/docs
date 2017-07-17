@@ -1,7 +1,7 @@
 # Gluu Product Documentation
 
 ## Gluu Server Community Edition (CE) 
-Free open source single sign-on (SSO) and access management platform.
+Free open source central authentication platform to achieve single sign-on (SSO) and strong authentication.
 		
 [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
 
