@@ -3,7 +3,7 @@
 ## Gluu Server Community Edition (CE) 
 Free open source central authentication platform to achieve single sign-on(SSO) and strong authentication to web and mobile applications.
 		
-[[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
+[[3.1.0](./ce/3.1.0)] [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
 
 
 ## oxd 
