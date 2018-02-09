@@ -18,3 +18,7 @@ Mobile application for iOS and Android to achieve strong authentication with a G
 [[3.0.0](./supergluu/3.0.0)]
 
 
+## Cluster Manager 
+A GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. Available under the [GLUU SUPPORT LICENSE](https://github.com/GluuFederation/cluster-mgr/blob/master/LICENSE).
+
+[[Beta](./cm/beta)]
