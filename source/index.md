@@ -27,4 +27,4 @@ A GUI tool for installing and managing a highly available, clustered Gluu Server
 ## Credential Manager
 Free open source two-factor authentication (2FA) dashboard for users to self-service manage U2F credentials, Super Gluu devices, OTP devices and SMS phone numbers.
 
-[[3.1.2](./cred-manager/3.1.2)]
+[[3.1.2](./creds/3.1.2)]
