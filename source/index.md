@@ -22,3 +22,9 @@ Mobile application for iOS and Android to achieve strong authentication with a G
 A GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. Available under the [GLUU SUPPORT LICENSE](https://github.com/GluuFederation/cluster-mgr/blob/master/LICENSE).
 
 [[Beta](./cm/beta)]
+
+
+## Credential Manager
+Free open source two-factor authentication (2FA) dashboard for users to self-service manage U2F credentials, Super Gluu devices, OTP devices and SMS phone numbers.
+
+[[3.1.2](./cred-manager/3.1.2)]
