@@ -1,5 +1,5 @@
 site_name: Gluu Documentation
-site_description: Documentation for Gluu Server
+site_description: Documentation for Gluu software products
 site_favicon: 'favicon.ico'
 copyright: Copyright &copy; 2018, Gluu, Inc.
 docs_dir: source
@@ -13,5 +13,4 @@ markdown_extensions:
      permalink: '#'
 pages:
 - Products: 'index.md'
-#- Access Management: 'gluucehome.md'
-#- oxd: 'oxdhome.md'
+
