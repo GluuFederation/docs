@@ -7,7 +7,7 @@ Free open source identity & access management platform to achieve single sign-on
 
 
 ## oxd 
-Client software to secure and integrate web applications with an OpenID Connect Provider (OP), like the Gluu Server.
+Client software to secure and integrate web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
 [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
