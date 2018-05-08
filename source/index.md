@@ -27,4 +27,4 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 ## Credential Manager
 User-facing dashboard for people to enroll and manage their two-factor authentication (2FA) credentials in the Gluu Server, including U2F security keys, Super Gluu devices, OTP apps like Google Authenticator, and SMS phone numbers.   
 
-[[3.1.2](./creds/3.1.2)]
+[[3.1.3](./creds/3.1.3)][[3.1.2](./creds/3.1.2)]
