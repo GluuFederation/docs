@@ -21,7 +21,7 @@ iOS and Android application for two-factor authentication (2FA) with a Gluu Serv
 ## Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. Available under the [GLUU SUPPORT LICENSE](https://github.com/GluuFederation/cluster-mgr/blob/master/LICENSE).
 
-[[Beta](./cm/beta)]
+[[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 
 ## Credential Manager
