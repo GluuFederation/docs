@@ -15,13 +15,13 @@ Client software to secure and integrate server-side web applications with an OAu
 ## Super Gluu 
 iOS and Android application for two-factor authentication (2FA) with a Gluu Server.
 
-[[3.1.3](./supergluu/3.1.3)][[3.0.0](./supergluu/3.0.0)]
+[[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
 
 
 ## Credential Manager     
 User-facing dashboard for people to enroll and manage their two-factor authentication (2FA) credentials in the Gluu Server.   
 
-[[3.1.3](./creds/3.1.3)][[3.1.2](./creds/3.1.2)]
+[[3.1.3](./creds/3.1.3)] [[3.1.2](./creds/3.1.2)]
 
 
 ## Gluu Gateway     
