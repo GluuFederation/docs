@@ -6,7 +6,7 @@ docs_dir: source
 repo_url: https://github.com/GluuFederation/docs-home
 theme_dir: material
 extra:
-    logo: 'gluu.jpg'
+    logo: 'gluu.png'
 markdown_extensions:
 - admonition
 - toc:
