@@ -18,13 +18,14 @@ iOS and Android application for two-factor authentication (2FA) with a Gluu Serv
 [[3.1.3](./supergluu/3.1.3)][[3.0.0](./supergluu/3.0.0)]
 
 
-## Credential Manager
+## Credential Manager     
 User-facing dashboard for people to enroll and manage their two-factor authentication (2FA) credentials in the Gluu Server, including U2F security keys, Super Gluu devices, OTP apps like Google Authenticator, and SMS phone numbers.   
 
 [[3.1.3](./creds/3.1.3)][[3.1.2](./creds/3.1.2)]
 
-## Gluu Gateway
-API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
+## Gluu Gateway     
+API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.       \
+
 [[3.1.3](./gg/3.1.3)]
 
 ## Cluster Manager 
