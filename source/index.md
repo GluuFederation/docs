@@ -27,7 +27,7 @@ User-facing dashboard for people to enroll and manage their two-factor authentic
 ## Gluu Gateway     
 API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.       
 
-[[3.1.3](./gg/3.1.3)]
+[[3.1.3.1](./gg/3.1.3.1)] [[3.1.3](./gg/3.1.3)]
 
 
 ## Cluster Manager 
