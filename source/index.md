@@ -24,7 +24,7 @@ User-facing dashboard for people to enroll and manage their two-factor authentic
 [[3.1.3](./creds/3.1.3)] [[3.1.2](./creds/3.1.2)]
 
 
-## Gluu Gateway     
+## Gluu Gateway (Beta)       
 API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.       
 
 [[3.1.3.1](./gg/3.1.3.1)] [[3.1.3.0](./gg/3.1.3)]
