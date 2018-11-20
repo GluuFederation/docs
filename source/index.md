@@ -18,11 +18,6 @@ iOS and Android application for two-factor authentication (2FA) with a Gluu Serv
 [[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
 
 
-## Credential Manager     
-User-facing dashboard for people to enroll and manage their two-factor authentication (2FA) credentials in the Gluu Server.   
-
-[[3.1.3](./creds/3.1.3)] [[3.1.2](./creds/3.1.2)]
-
 <!--
 Removed until new version is released
 ## Gluu Gateway (Beta)       
