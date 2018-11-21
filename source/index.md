@@ -10,26 +10,23 @@ Linux container assets for Gluu Server Community Edition. Red Hat Certified. Com
 
 [[3.1.4](./de/3.1.4)]
 
-## oxd 
-Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
+## Cluster Manager 
+GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. 
 
-[[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
-
+[[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 ## Super Gluu 
 iOS and Android application for two-factor authentication (2FA) with a Gluu Server.
 
 [[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
 
+## oxd 
+Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
+
+[[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
 <!--
 Removed until new version is released
 ## Gluu Gateway (Beta)       
 API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.[[3.1.3.1](./gg/3.1.3.1)]
 -->
-
-## Cluster Manager 
-GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. 
-
-[[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
-
