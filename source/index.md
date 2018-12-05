@@ -13,7 +13,7 @@ Linux container assets for Gluu Server Community Edition. Red Hat Certified. Com
 ## Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. 
 
-[[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
+[[3.1.4](./cm/3.1.4)][[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 ## Super Gluu 
 iOS and Android application for two-factor authentication (2FA) with a Gluu Server.
