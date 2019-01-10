@@ -3,7 +3,8 @@
 ## Gluu Server Community Edition (CE) 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-<!--[[3.1.5](./ce/3.1.5)]--> [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](./ce/3.1.1)] [[3.1.0](./ce/3.1.0)] [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
+<!--[[3.1.5](./ce/3.1.5)]-->
+[[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](./ce/3.1.1)] [[3.1.0](./ce/3.1.0)] [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
 
 ## Gluu Server Docker Edition (DE)
 Linux container assets for Gluu Server Community Edition. Red Hat Certified. Compatible with Docker, Kubernetes, and other container environments.
