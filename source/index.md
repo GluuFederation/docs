@@ -27,6 +27,5 @@ Client software to secure and integrate server-side web applications with an OAu
 
 <!--
 Removed until new version is released
-## Gluu Gateway (Beta)       
-API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.[[3.1.3.1](./gg/3.1.3.1)]
--->
+## Gluu Gateway       
+API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.[[1.0](./gg/1.0)]-->
