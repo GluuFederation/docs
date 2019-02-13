@@ -20,12 +20,14 @@ iOS and Android application for two-factor authentication (2FA) with a Gluu Serv
 
 [[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
 
+## Gluu Gateway       
+API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
+
+[[1.0](./gg/1.0)]
+
 ## oxd 
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
 [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
-## Gluu Gateway       
-API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
 
-[[1.0](./gg/1.0)]
