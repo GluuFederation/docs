@@ -8,7 +8,7 @@ Identity & access management (IAM) platform for web & mobile single sign-on (SSO
 ## Gluu Server Docker Edition (DE)
 Linux container assets for Gluu Server Community Edition. Red Hat Certified. Compatible with Docker, Kubernetes, and other container environments.
 
-[[3.1.4](./de/3.1.4)]
+[[3.1.5](./de/3.1.5)][[3.1.4](./de/3.1.4)]
 
 ## Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure. 
