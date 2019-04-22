@@ -7,7 +7,8 @@ copyright: Copyright &copy; 2018, Gluu, Inc.
 
 # configuration
 docs_dir: source
-repo_url: https://github.com/GluuFederation/docs-home
+repo_name: GluuFederation/docs
+repo_url: https://github.com/GluuFederation/docs
 
 # Theme
 theme: 
