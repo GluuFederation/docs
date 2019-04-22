@@ -1,16 +1,30 @@
+#Project Details
 site_name: Gluu Documentation
 site_description: Documentation for Gluu software products
-site_favicon: 'favicon.ico'
+
+# copyright
 copyright: Copyright &copy; 2018, Gluu, Inc.
+
+# configuration
 docs_dir: source
 repo_url: https://github.com/GluuFederation/docs-home
-theme_dir: material
-extra:
-    logo: 'gluu.png'
+
+# Theme
+theme: 
+    name: material
+    palette:
+        primary: 'green'
+        accent: 'green'
+    logo: 'gluu.jpg'
+    favicon: 'favicon.ico'
+    
+# extensions    
 markdown_extensions:
 - admonition
 - toc:
      permalink: '#'
-pages:
+     
+# Navigation
+nav:
 - Products: 'index.md'
 
