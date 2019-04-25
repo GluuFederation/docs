@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2018, Gluu, Inc.
 docs_dir: source
 repo_name: GluuFederation/docs
 repo_url: https://github.com/GluuFederation/docs
-edit_uri: edit/master/source/
+edit_uri: edit/master/source
 
 # Theme
 theme: 
