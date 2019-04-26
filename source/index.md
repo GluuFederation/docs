@@ -16,7 +16,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 ## Gluu Casa
-Self-service web portal for end-users to manage security preferences for their accounts in a Gluu Server.  
+Self-service web portal for end-users to manage security preferences for their account in a Gluu Server.  
 
 [[3.1.6](./casa/3.1.6)]
 
