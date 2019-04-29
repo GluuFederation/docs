@@ -12,6 +12,7 @@ Client software to secure and integrate server-side web applications with an OAu
 
 [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
+---
 
 ## Available under Gluu Support License
 
@@ -29,6 +30,9 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
 
 [[1.0](./gg/1.0)]
+
+
+---
 
 ## Available under Commercial License
 
