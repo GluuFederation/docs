@@ -13,7 +13,7 @@ Client software to secure and integrate server-side web applications with an OAu
 [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
 
-## Available Under Gluu Support License
+## Available under Gluu Support License
 
 ### Gluu Server Docker Edition (DE)
 Linux container assets for Gluu Server Community Edition. Red Hat Certified. Compatible with Docker, Kubernetes, and other container environments.
