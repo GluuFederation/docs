@@ -37,7 +37,7 @@ API Gateway leveraging the Gluu Server for central client management and access 
 ## Available under Commercial License
 
 ### Super Gluu 
-iOS and Android application for two-factor authentication (2FA) with a Gluu Server.
+Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
 
 [[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
 
