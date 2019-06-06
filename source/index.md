@@ -36,13 +36,14 @@ API Gateway leveraging the Gluu Server for central client management and access 
 
 ## Available under Commercial License
 
-### Gluu Casa
-Self-service web portal for end-users to manage security preferences for their account in a Gluu Server.  
-
-[[3.1.6](./casa/3.1.6)]
-
 ### Super Gluu 
 iOS and Android application for two-factor authentication (2FA) with a Gluu Server.
 
 [[3.1.3](./supergluu/3.1.3)] [[3.0.0](./supergluu/3.0.0)]
+
+### Gluu Casa
+Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
+
+[[3.1.6](./casa/3.1.6)]
+
 
