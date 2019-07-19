@@ -5,12 +5,12 @@
 ### Gluu Server Community Edition (CE) 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](./ce/3.1.1)] [[3.1.0](./ce/3.1.0)] [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
+[[4.0 Beta](./ce/4.0)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](./ce/3.1.1)] [[3.1.0](./ce/3.1.0)] [[3.0.2](./ce/3.0.2)] [[3.0.1](./ce/3.0.1)] [[2.4.4](./ce/2.4.4)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
+[[4.0 Beta](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)]  [[3.1.1](./oxd/3.1.1)]  [[3.0.1](./oxd/3.0.1)]  [[2.4.4](./oxd/2.4.4)]
 
 ---
 
@@ -29,7 +29,7 @@ Linux container assets for Gluu Server CE. Red Hat Certified. Compatible with Do
 ### Gluu Gateway       
 API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
 
-[[1.0](./gg/1.0)]
+[[4.0 Beta](./gg/4.0)] [[1.0](./gg/1.0)]
 
 
 ---
