@@ -22,7 +22,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 ### Gluu Server Docker Edition (DE)
-Assets and recipes for multi-node container deployments of the Gluu Server. Compatible with Docker, Kubernetes, Red Hat OpenShift and other container environments.
+Assets and recipes for multi-node container deployments of the Gluu Server. Compatible with Docker Swarm, Kubernetes, Red Hat OpenShift and other container environments.
 
 [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
