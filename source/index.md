@@ -14,7 +14,7 @@ Client software to secure and integrate server-side web applications with an OAu
 
 ---
 
-## Available under Gluu Support License
+## Included with Gluu VIP Subscription
 
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
@@ -27,19 +27,18 @@ Assets and recipes for multi-node container deployments of the Gluu Server. Comp
 [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
 ### Gluu Gateway       
-API Gateway leveraging the Gluu Server for central client management and access control using OAuth and UMA scopes.
+API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
 
 [[4.0 Beta](./gg/4.0)] [[1.0](./gg/1.0)]
 
-
 ### oxTrust Admin Configuration APIs
-API extension for Gluu administrators to programtically manage server configurations and other federation-specific options available in the Gluu Server oxTrust Admin GUI.
+REST API extension to programtically manage configuration options available in the oxTrust Admin GUI. 
 
 [[4.0 Beta](./oxtrust-api/4.0)]
 
 ---
 
-## Available under Commercial License
+## Commercial Software
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
