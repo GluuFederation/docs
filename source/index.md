@@ -33,7 +33,7 @@ API Gateway leveraging the Gluu Server for central client management and access 
 
 
 ### oxTrust Admin Configuration APIs
-oxTrust API extension for Gluu administrators to programtically manage server configurations and other federation-specific options for their Gluu IAM service.
+API extension for Gluu administrators to programtically manage server configurations and other federation-specific options available in the Gluu Server oxTrust Admin GUI.
 
 [[4.0 Beta](./oxtrust-api/4.0)]
 
