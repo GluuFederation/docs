@@ -31,7 +31,7 @@ API Gateway and reverse web proxy for central policy enforcement and access cont
 
 [[4.0 Beta](./gg/4.0)] [[1.0](./gg/1.0)]
 
-### oxTrust Admin Configuration APIs
+### Admin Configuration APIs
 REST API extension to programtically manage configuration options available in the oxTrust Admin GUI. 
 
 [[4.0 Beta](./oxtrust-api/4.0)]
