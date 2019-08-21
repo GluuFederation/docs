@@ -14,7 +14,7 @@ Client software to secure and integrate server-side web applications with an OAu
 
 ---
 
-## Included with Gluu VIP Subscription
+## Included with [VIP](https://www.gluu.org/pricing#vip)
 
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
