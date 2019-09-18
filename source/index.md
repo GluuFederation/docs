@@ -37,7 +37,7 @@ REST API extension to manage configuration options available in the oxTrust Admi
 [[4.0 Beta](./oxtrust-api/4.0)]
 
 ### Couchbase Integration
-Instructions to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
+Assets and connectors to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
 
 [[4.0 Beta](./cb/4.0)]
 
