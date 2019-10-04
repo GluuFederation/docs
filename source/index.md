@@ -24,7 +24,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 ### Gluu Server Docker Edition (DE)
 Assets and recipes for multi-node container deployments of the Gluu Server. Compatible with Docker Swarm, Kubernetes, Red Hat OpenShift and other container environments.
 
-[[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
+[[4.0 Beta](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
 ### Gluu Gateway       
 API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
