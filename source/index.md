@@ -53,6 +53,6 @@ Two-factor authentication (2FA) app for iOS & Android using mobile push notifica
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[3.1.6](./casa/3.1.6)]
+[[4.0 Beta](./casa/4.0)][[3.1.6](./casa/3.1.6)]
 
 
