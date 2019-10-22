@@ -31,15 +31,15 @@ API Gateway and reverse web proxy for central policy enforcement and access cont
 
 [[4.0 Beta](./gg/4.0)] [[1.0](./gg/1.0)]
 
+### Couchbase Integration
+Assets and connectors to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
+
+[[4.0](./cb/4.0)]
+
 ### Admin Configuration APIs
 REST API extension to manage configuration options available in the oxTrust Admin GUI. 
 
 [[4.0 Beta](./oxtrust-api/4.0)]
-
-### Couchbase Integration
-Assets and connectors to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
-
-[[4.0 Beta](./cb/4.0)]
 
 ---
 
@@ -53,6 +53,6 @@ Two-factor authentication (2FA) app for iOS & Android using mobile push notifica
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.0 Beta](./casa/4.0)][[3.1.6](./casa/3.1.6)]
+[[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
 
 
