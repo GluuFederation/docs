@@ -19,7 +19,7 @@ Client software to secure and integrate server-side web applications with an OAu
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
+[[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[Beta](./cm/beta)]
 
 ### Gluu Server Docker Edition (DE)
 Assets and recipes for multi-node container deployments of the Gluu Server. Compatible with Docker Swarm, Kubernetes, Red Hat OpenShift and other container environments.
@@ -29,7 +29,7 @@ Assets and recipes for multi-node container deployments of the Gluu Server. Comp
 ### Gluu Gateway       
 API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
 
-[[4.0 Beta](./gg/4.0)] [[1.0](./gg/1.0)]
+[[4.0](./gg/4.0)] [[1.0](./gg/1.0)]
 
 ### Couchbase Integration
 Assets and connectors to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
@@ -39,7 +39,7 @@ Assets and connectors to leverage Couchbase Enterprise Edition as the backend da
 ### Admin Configuration APIs
 REST API extension to manage configuration options available in the oxTrust Admin GUI. 
 
-[[4.0 Beta](./oxtrust-api/4.0)]
+[[4.0](./oxtrust-api/4.0)]
 
 ---
 
