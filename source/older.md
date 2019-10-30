@@ -4,6 +4,8 @@
 
 The following versions are past their Community End of Life (EOL) date. While their documentation will be retained on this page until the Enterprise EOL date, we recommend upgrading to the latest version.
 
+See the newer product versions [here](./index.md).
+
 ## Free Open Source Software
 
 ### Gluu Server Community Edition (CE) 
