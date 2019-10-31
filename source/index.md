@@ -19,7 +19,7 @@ Client software to secure and integrate server-side web applications with an OAu
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[EOL Versions](./eol.md)]
+[[4.0 beta](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[EOL Versions](./eol.md)]
 
 ### Gluu Server Docker Edition (DE)
 Assets and recipes for multi-node container deployments of the Gluu Server. Compatible with Docker Swarm, Kubernetes, Red Hat OpenShift and other container environments.
