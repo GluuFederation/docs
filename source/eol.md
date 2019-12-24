@@ -18,6 +18,11 @@ Client software to secure and integrate server-side web applications with an OAu
 
 [[3.1.1](../oxd/3.1.1)]  [[3.0.1](../oxd/3.0.1)]  [[2.4.4](../oxd/2.4.4)]
 
+### Super Gluu 
+Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
+
+[[3.0.0](../supergluu/3.0.0)]
+
 ---
 
 ## Included with [VIP](https://www.gluu.org/pricing#vip)
@@ -26,12 +31,3 @@ Client software to secure and integrate server-side web applications with an OAu
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
 [[Beta](../cm/beta)]
-
----
-
-## Commercial Software
-
-### Super Gluu 
-Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
-
-[[3.0.0](../supergluu/3.0.0)]
