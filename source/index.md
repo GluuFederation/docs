@@ -33,7 +33,7 @@ Assets and connectors to leverage Couchbase Enterprise Edition as the backend da
 [[4.0](./cb/4.0)]
 
 ### Admin Configuration APIs
-REST API extension to manage configuration options available in the oxTrust Admin GUI. 
+REST API extension to manage configuration options available in the Gluu Server Admin GUI. 
 
 [[4.0](./oxtrust-api/4.0)]
 
