@@ -11,12 +11,12 @@ See the newest product versions [here](./index.md).
 ### Gluu Server Community Edition (CE) 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[3.0.2](../ce/3.0.2)] [[3.0.1](../ce/3.0.1)] [[2.4.4](../ce/2.4.4)]
+[[3.0.2](../ce/3.0.2)] [[3.0.1](../ce/3.0.1)] [[2.4.4](../ce/2.4.4)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[3.1.1](../oxd/3.1.1)]  [[3.0.1](../oxd/3.0.1)]  [[2.4.4](../oxd/2.4.4)]
+[[3.0.1](../oxd/3.0.1)]  [[2.4.4](../oxd/2.4.4)]
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
