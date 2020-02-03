@@ -5,12 +5,12 @@
 ### Gluu Server Community Edition (CE) 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[EOL Versions](./eol.md)]
+[[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[4.0](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)] [[EOL Versions](./eol.md)]
+[[4.0](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)] [[3.1.1](../oxd/3.1.1)] [[EOL Versions](./eol.md)]
 
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
