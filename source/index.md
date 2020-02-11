@@ -4,7 +4,7 @@
 
 The following page lists all of Gluu's active product versions. Versions that have reached their community end-of-life date have been moved to a [separate EOL page](./eol.md).
 
-See the lifecycle dates for all products [here](#lifecycle-chart)
+See the lifecycle dates for all products [here](#lifecycle-chart).
 
 ## Free Open Source Software
 
