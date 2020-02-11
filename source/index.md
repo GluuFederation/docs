@@ -4,7 +4,7 @@
 
 The following page lists all of Gluu's active product versions. Versions that have reached their community end-of-life date have been moved to a [separate EOL page](./eol.md).
 
-See the lifecycle dates for all products [here](#lifecycle-chart).
+See the end-of-life dates for all products [here](#end-of-life-schedule).
 
 ## Free Open Source Software
 
@@ -63,7 +63,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 
 [[4.0 beta](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[EOL Versions](./eol.md)]
 
-## Lifecycle Chart
+## End-of-Life Schedule
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
