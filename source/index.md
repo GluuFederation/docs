@@ -1,5 +1,11 @@
 # Gluu Product Documentation
 
+## Overview
+
+The following page lists all of Gluu's active product versions. Versions that have reached their community end-of-life date have been moved to a [separate EOL page](./eol.md).
+
+See the lifecycle dates for all products [here](#lifecycle-chart)
+
 ## Free Open Source Software
 
 ### Gluu Server Community Edition (CE) 
@@ -41,8 +47,14 @@ REST API extension to manage configuration options available in the Gluu Server 
 
 ## Available with [VIP](https://www.gluu.org/pricing#vip)
 
+<!--
+### Gluu Server Enterprise Edition (EE)
+Kubernetes assets and recipes for multi-node container deployments of the Gluu platform.
+[[4.1](.ee/4.1)]
+-->
+
 ### Gluu Server Docker Edition (DE)
-Kubernetes assets and recipes for multi-node container deployments of the Gluu platform. 
+Docker assets and recipes for multi-node container deployments of the Gluu platform. 
 
 [[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
@@ -50,3 +62,23 @@ Kubernetes assets and recipes for multi-node container deployments of the Gluu p
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
 [[4.0 beta](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[EOL Versions](./eol.md)]
+
+## Lifecycle Chart
+
+| Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
+| --- | --- | --- | --- | --- |
+| 4.2.x | In Development | TBD | TBD | TBD |
+| 4.1.x | In Development | February 2020 | August 2021 | August 2022 |
+| 4.0.x | Active | October 2019 | April 2021 | April 2022 |
+| 3.1.7.x | Active | November 2019 | October 2020 |  April 2021  |
+| 3.1.6.x | Active | April 2019 | October 2020 |  April 2021  |
+| 3.1.5.x | Active | January 2019 | April 2020 |  April 2021  |
+| 3.1.4.x | Active | November 2018  | April 2020 |  April 2021  |
+| 3.1.3.x | Active | May 2018 | April 2020 | April 2021 | 
+| 3.1.2.x | Active | January 2018 | April 2020| April 2021 |
+| 3.1.1.x | Active | October 2017 | April 2020 | April 2021 |
+| 3.1.0.x | Active | September 2017 | April 2020 | April 2021 |
+| 3.0.2.x | EOL | June 2017 | December 2019 | December 2019 |
+| 3.0.1.x | EOL | March 2017 | September 2019 | September 2019 |
+| 2.4.4.x | EOL | July 2016 | December 2018 | December 2019|
+
