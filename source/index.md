@@ -68,7 +68,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
 | 4.2.x | In Development | TBD | TBD | TBD |
-| 4.1.x | In Development | February 2020 | August 2021 | August 2022 |
+| 4.1.x | In Development | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
 | 3.1.7.x | Active | November 2019 | October 2020 |  April 2021  |
 | 3.1.6.x | Active | April 2019 | October 2020 |  April 2021  |
