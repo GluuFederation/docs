@@ -11,22 +11,22 @@ See the end-of-life dates for all products [here](#end-of-life-schedule).
 ### Gluu Server Community Edition (CE) 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[EOL Versions](./eol.md)]
+[[4.1](./ce/4.1)] [[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[4.0](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)] [[3.1.1](../oxd/3.1.1)] [[EOL Versions](./eol.md)]
+[[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)] [[3.1.1](../oxd/3.1.1)] [[EOL Versions](./eol.md)]
 
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
+[[4.1](./casa/4.1)] [[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
 
 ### Gluu Gateway       
 API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
 
-[[4.0](./gg/4.0)] [[1.0](./gg/1.0)]
+[[4.1](./gg/4.1)] [[4.0](./gg/4.0)] [[1.0](./gg/1.0)]
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
@@ -68,7 +68,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
 | 4.2.x | In Development | TBD | TBD | TBD |
-| 4.1.x | In Development | March 2020 | September 2021 | September 2022 |
+| 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
 | 3.1.7.x | Active | November 2019 | October 2020 |  April 2021  |
 | 3.1.6.x | Active | April 2019 | October 2020 |  April 2021  |
