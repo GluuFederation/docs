@@ -8,7 +8,7 @@ See the end-of-life dates for all products [here](#end-of-life-schedule).
 
 ## Free Open Source Software
 
-### Gluu Server Community Edition (CE) 
+### Gluu Server 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
 [[4.1](./ce/4.1)] [[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[EOL Versions](./eol.md)]
@@ -49,13 +49,10 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 [[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[3.1.4](./cm/3.1.4)] [[3.1.3](./cm/3.1.3)] [[EOL Versions](./eol.md)]
 
 ### Gluu Server Docker Edition (DE)
-Docker assets and recipes for multi-node container deployments of the Gluu platform. 
-
-<!---
+Docker assets and recipes for multi-node container deployments of the Gluu platform.
 
 !!! Important
-    Gluu Server Docker Edition is now part of Gluu Server Cloud Native Edition (Gluu CN).
---->
+    Starting in Version 4.1, Gluu Server Docker Edition documentation is now included in the main [Gluu Server](./ce/4.1) documentation.
 
 [[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
