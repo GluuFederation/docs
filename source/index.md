@@ -51,10 +51,10 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 ### Gluu Server Docker Edition (DE)
 Docker assets and recipes for multi-node container deployments of the Gluu platform.
 
+[[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
+
 !!! Important
     Starting in Version 4.1, Gluu Server Docker Edition documentation is now included in the main [Gluu Server](./ce/4.1) documentation.
-
-[[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 
 ## End-of-Life Schedule
 
