@@ -6,6 +6,9 @@ The following page lists all of Gluu's active product versions. Versions that ha
 
 See the end-of-life dates for all products [here](#end-of-life-schedule).
 
+!!! Important
+    Gluu Server Docker Edition, Couchbase integration, and oxTrust API documentation are now included in the main [Gluu Server](./ce/4.1) documentation.
+
 ## Free Open Source Software
 
 ### Gluu Server 
@@ -28,6 +31,7 @@ Two-factor authentication (2FA) app for iOS & Android using mobile push notifica
 
 [[3.1.3](./supergluu/3.1.3)] [[EOL Versions](./eol.md)]
 
+<!---
 ### Couchbase Integration
 Assets and connectors to leverage Couchbase Enterprise Edition as the backend database for the Gluu Server.
 
@@ -37,6 +41,7 @@ Assets and connectors to leverage Couchbase Enterprise Edition as the backend da
 REST API extension to manage configuration options available in the Gluu Server Admin GUI. 
 
 [[4.1](./oxtrust-api/4.1)] [[4.0](./oxtrust-api/4.0)]
+--->
 
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
@@ -48,15 +53,12 @@ Client software to secure and integrate server-side web applications with an OAu
 
 [[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)] [[3.1.4](./oxd/3.1.4)] [[3.1.3.1](./oxd/3.1.3.1)] [[3.1.3.0](./oxd/3.1.3)] [[3.1.2](./oxd/3.1.2)] [[3.1.1](../oxd/3.1.1)] [[EOL Versions](./eol.md)]
 
+<!---
 ### Gluu Server Docker Edition (DE)
 
-<!---
 Docker assets and recipes for multi-node container deployments of the Gluu platform.
 [[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 --->
-
-!!! Important
-    Starting in Version 4.1, Gluu Server Docker Edition documentation is now included in the main [Gluu Server](./ce/4.1) documentation.
 
 ## End-of-Life Schedule
 
