@@ -14,7 +14,7 @@ See the end-of-life dates for all products [here](#end-of-life-schedule).
 ### Gluu Server 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.1](./ce/4.1)] [[4.0](./ce/4.0)] [[3.1.7](./ce/3.1.7)] [[3.1.6](./ce/3.1.6)] [[3.1.5](./ce/3.1.5)] [[3.1.4](./ce/3.1.4)] [[3.1.3.1](./ce/3.1.3.1)] [[3.1.3.0](./ce/3.1.3)] [[3.1.2](./ce/3.1.2)] [[3.1.1](../ce/3.1.1)] [[3.1.0](../ce/3.1.0)] [[EOL Versions](./eol.md)]
+[[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[3.1.7](./gluu-server/3.1.7)] [[3.1.6](./gluu-server/3.1.6)] [[3.1.5](./gluu-server/3.1.5)] [[3.1.4](./gluu-server/3.1.4)] [[3.1.3.1](./gluu-server/3.1.3.1)] [[3.1.3.0](./gluu-server/3.1.3)] [[3.1.2](./gluu-server/3.1.2)] [[3.1.1](../gluu-server/3.1.1)] [[3.1.0](../gluu-server/3.1.0)] [[EOL Versions](./eol.md)]
 
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
