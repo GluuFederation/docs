@@ -8,7 +8,7 @@ See the newest product versions [here](./index.md).
 
 ## Free Open Source Software
 
-### Gluu Server Community Edition (CE) 
+### Gluu Server Community Edition 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
 [[3.1.5](./gluu-server/3.1.5)] [[3.1.4](./gluu-server/3.1.4)] [[3.1.3.1](./gluu-server/3.1.3.1)] [[3.1.3.0](./gluu-server/3.1.3)] [[3.1.2](./gluu-server/3.1.2)] [[3.1.1](./gluu-server/3.1.1)] [[3.1.0](./gluu-server/3.1.0)] [[3.0.2](../ce/3.0.2)] [[3.0.1](../ce/3.0.1)] [[2.4.4](../ce/2.4.4)]
