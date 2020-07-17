@@ -19,12 +19,12 @@ Identity & access management (IAM) platform for web & mobile single sign-on (SSO
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.1](./casa/4.1)] [[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
+[[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
 
 ### Gluu Gateway       
 API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
 
-[[4.1](./gg/4.1)] [[4.0](./gg/4.0)] [[EOL Versions](./eol.md)]
+[[4.2](./gg/4.2)] [[4.1](./gg/4.1)] [[4.0](./gg/4.0)] [[EOL Versions](./eol.md)]
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
@@ -51,7 +51,7 @@ GUI tool for installing and managing a highly available, clustered Gluu Server i
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)]  [[EOL Versions](./eol.md)]
+[[4.2](./oxd/4.2)] [[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)]  [[EOL Versions](./eol.md)]
 
 <!---
 ### Gluu Server Docker Edition (DE)
@@ -64,7 +64,7 @@ Docker assets and recipes for multi-node container deployments of the Gluu platf
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
-| 4.2.x | In Development | May 2020 | November 2021 | November 2022 |
+| 4.2.x | Active | May 2020 | November 2021 | November 2022 |
 | 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
 | 3.1.8.x | Active | May 2020 | December 2020 | December 2021 |
