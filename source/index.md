@@ -64,7 +64,7 @@ Docker assets and recipes for multi-node container deployments of the Gluu platf
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
-| 4.2.x | Active | May 2020 | November 2021 | November 2022 |
+| 4.2.x | Active | July 2020 | December 2021 | December 2022 |
 | 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
 | 3.1.8.x | Active | May 2020 | December 2020 | December 2021 |
