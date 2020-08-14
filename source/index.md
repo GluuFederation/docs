@@ -21,11 +21,6 @@ Self-service web portal for end-users to manage security preferences, like 2FA, 
 
 [[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
 
-### Gluu Gateway       
-API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
-
-[[4.2](./gg/4.2)] [[4.1](./gg/4.1)] [[4.0](./gg/4.0)] [[EOL Versions](./eol.md)]
-
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
 
@@ -53,6 +48,11 @@ Client software to secure and integrate server-side web applications with an OAu
 
 [[4.2](./oxd/4.2)] [[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)]  [[EOL Versions](./eol.md)]
 
+### Gluu Gateway       
+API Gateway and reverse web proxy for central policy enforcement and access control using OAuth and UMA scopes.
+
+[[4.2](./gg/4.2)] [[4.1](./gg/4.1)] [[4.0](./gg/4.0)] [[EOL Versions](./eol.md)]
+
 <!---
 ### Gluu Server Docker Edition (DE)
 
@@ -61,6 +61,8 @@ Docker assets and recipes for multi-node container deployments of the Gluu platf
 --->
 
 ## End-of-Life Schedule
+
+This schedule details the end-of-life dates for Gluu Server versions.
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
