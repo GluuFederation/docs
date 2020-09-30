@@ -41,7 +41,7 @@ REST API extension to manage configuration options available in the Gluu Server 
 ### Cluster Manager 
 GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[EOL Versions](./eol.md)]
+[[4.2](./cm/4.2)][[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
