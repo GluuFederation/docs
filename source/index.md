@@ -66,7 +66,6 @@ This schedule details the end-of-life dates for Gluu Server versions.
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
-| 5.0.x | In Development | Q2 2021 | Q4 2022 | Q4 2023 |
 | 4.2.x | Active | July 2020 | December 2021 | December 2022 |
 | 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
