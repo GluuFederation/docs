@@ -14,12 +14,12 @@ See the end-of-life dates for all products [here](#end-of-life-schedule).
 ### Gluu Server 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[3.1.8](./gluu-server/3.1.8)] [[3.1.7](./gluu-server/3.1.7)] [[3.1.6](./gluu-server/3.1.6)] [[EOL Versions](./eol.md)]
+[[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[EOL Versions](./eol.md)]
 
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)][[3.1.6](./casa/3.1.6)]
+[[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)]
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
@@ -41,7 +41,7 @@ REST API extension to manage configuration options available in the Gluu Server 
 ### Cluster Manager 
 A commercially licensed GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[4.2](./cm/4.2)][[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[3.1.6](./cm/3.1.6)] [[EOL Versions](./eol.md)]
+[[4.2](./cm/4.2)][[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
@@ -69,9 +69,9 @@ This schedule details the end-of-life dates for Gluu Server versions.
 | 4.2.x | Active | July 2020 | December 2021 | December 2022 |
 | 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
-| 3.1.8.x | Active | May 2020 | October 2020 | April 2021 |
-| 3.1.7.x | Active | November 2019 | October 2020 |  April 2021  |
-| 3.1.6.x | Active | April 2019 | October 2020 |  April 2021  |
+| 3.1.8.x | EOL | May 2020 | October 2020 | April 2021 |
+| 3.1.7.x | EOL| November 2019 | October 2020 |  April 2021  |
+| 3.1.6.x | EOL | April 2019 | October 2020 |  April 2021  |
 | 3.1.5.x | EOL | January 2019 | April 2020 |  April 2021  |
 | 3.1.4.x | EOL | November 2018  | April 2020 |  April 2021  |
 | 3.1.3.x | EOL | May 2018 | April 2020 | April 2021 | 
