@@ -60,7 +60,18 @@ Docker assets and recipes for multi-node container deployments of the Gluu platf
 [[4.0](./de/4.0)] [[3.1.6](./de/3.1.6)] [[3.1.5](./de/3.1.5)] [[3.1.4](./de/3.1.4)]
 --->
 
-## End-of-Life Schedule
+## End-of-Life
+
+<!--- This section is a draft
+Support Policy
+
+1. All product version numbers appear in the Major.Minor.Patch format. Therefore, version 1.2.3 would be the first major version release for the product, the second minor version release of that major release, and the third patch release of that minor release.
+
+1. Each minor version release is supported for community customers for the longer of eighteen months from its release date or six months after the next major version release.
+
+1. Minor releases are supported for community customers for the longer of eighteen months from the general availability release date or six months from the next major version release. Enterprise customers may request technical support for one year beyond the community end-of-life date. 
+
+--->
 
 This schedule details the end-of-life dates for Gluu Server versions.
 
@@ -69,16 +80,7 @@ This schedule details the end-of-life dates for Gluu Server versions.
 | 4.2.x | Active | July 2020 | December 2021 | December 2022 |
 | 4.1.x | Active | March 2020 | September 2021 | September 2022 |
 | 4.0.x | Active | October 2019 | April 2021 | April 2022 |
-| 3.1.8.x | EOL | May 2020 | October 2020 | April 2021 |
-| 3.1.7.x | EOL| November 2019 | October 2020 |  April 2021  |
-| 3.1.6.x | EOL | April 2019 | October 2020 |  April 2021  |
-| 3.1.5.x | EOL | January 2019 | April 2020 |  April 2021  |
-| 3.1.4.x | EOL | November 2018  | April 2020 |  April 2021  |
-| 3.1.3.x | EOL | May 2018 | April 2020 | April 2021 | 
-| 3.1.2.x | EOL | January 2018 | April 2020| April 2021 |
-| 3.1.1.x | EOL | October 2017 | April 2020 | April 2021 |
-| 3.1.0.x | EOL | September 2017 | April 2020 | April 2021 |
-| 3.0.2.x | EOL | June 2017 | December 2019 | December 2019 |
-| 3.0.1.x | EOL | March 2017 | September 2019 | September 2019 |
-| 2.4.4.x | EOL | July 2016 | December 2018 | December 2019|
+| 3.1.x | EOL | September 2017 | October 2020 | April 2021 |
+| 3.0.x | EOL | June 2017 | December 2019 | December 2019 |
+| 2.4.x | EOL | July 2016 | December 2018 | December 2019|
 
