@@ -6,9 +6,6 @@ The following page lists all of Gluu's active product versions. Versions that ha
 
 See the end-of-life dates for all products [here](#end-of-life-schedule).
 
-!!! Important
-    Gluu Server Docker Edition, Couchbase integration, and oxTrust API documentation are now included in the main [Gluu Server](./ce/4.1) documentation.
-
 ## Free Open Source Software
 
 ### Gluu Server 
