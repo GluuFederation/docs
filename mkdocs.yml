@@ -3,7 +3,7 @@ site_name: Gluu Documentation
 site_description: Documentation for Gluu software products
 
 # copyright
-copyright: Copyright &copy; 2018, Gluu, Inc.
+copyright: Copyright &copy; 2020, Gluu, Inc.
 
 # configuration
 docs_dir: source
