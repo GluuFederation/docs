@@ -13,6 +13,11 @@ Identity & access management (IAM) platform for web & mobile single sign-on (SSO
 
 [[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[EOL Versions](./eol.md)]
 
+### Gluu Open Banking Platform
+Identity and access management (IAM) platform focused on Open Banking compliance and integration. 
+
+[[1.0](./openbanking/1.0.0)]
+
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
