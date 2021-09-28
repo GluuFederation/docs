@@ -11,7 +11,7 @@ See the end-of-life dates for all products [here](#end-of-life-schedule).
 ### Gluu Server 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.3 Beta](./gluu-server/4.3)] [[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[EOL Versions](./eol.md)]
+[[4.3](./gluu-server/4.3)] [[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[EOL Versions](./eol.md)]
 
 ### Gluu Open Banking Platform
 Identity and access management (IAM) platform focused on Open Banking compliance and integration. 
