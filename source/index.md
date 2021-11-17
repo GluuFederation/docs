@@ -21,7 +21,7 @@ Identity and access management (IAM) platform focused on Open Banking compliance
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)]
+[[4.3](./casa/4.3)] [[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)]
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
