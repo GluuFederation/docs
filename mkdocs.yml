@@ -3,7 +3,7 @@ site_name: Gluu Documentation
 site_description: Documentation for Gluu software products
 
 # copyright
-copyright: Copyright &copy; 2020, Gluu, Inc.
+copyright: Copyright &copy; 2021, Gluu, Inc.
 
 # configuration
 docs_dir: source
@@ -36,37 +36,58 @@ markdown_extensions:
 # Navigation
 nav:
 - Main: 'index.md'
-- Products:
-  - Gluu Open Banking:
-    - Overview: open-banking/index.md
-    - Installation: open-banking/install-cn.md
-#   - Use Cases:
+- oxd: 
+  - Home: 'oxd/index.md'
+  - Release Notes: 'oxd/release-notes/index.md'
+  - Whats new in 4.x: 'oxd/4.x-intro.md'
+  - Install & Run: 'oxd/install/index.md'
+  - Tutorials:
+        - 'Sample Applications':
+            - 'Python': 'oxd/tutorials/python/index.md'
+            - 'Java': 'oxd/tutorials/java/index.md'
+            - 'Spring': 'oxd/tutorials/spring/index.md'
+        - 'Windows Installer': 'oxd/tutorials/windowsInstaller/index.md'
+  - Upgrade: 'oxd/upgrade/index.md'
+  - Configuration: 
+        - 'Configuration': 'oxd/configuration/oxd-configuration/index.md'
+        - 'H2': 'oxd/configuration/h2/index.md'
+        - 'Redis': 'oxd/configuration/redis/index.md'
+        - 'JDBC': 'oxd/configuration/jdbc/index.md'
+        - 'LDAP': 'oxd/configuration/ldap/index.md'
+        - 'Couchbase': 'oxd/configuration/couchbase/index.md'
+  - Logs: 'oxd/logs/index.md'
+  - API: 'oxd/api/index.md'
+  - Security Considerations: 'oxd/security/index.md'
+  - Tracing: 'oxd/tracing/index.md'
+- Gluu Open Banking:
+  - Overview: open-banking/index.md
+  - Installation: open-banking/install-cn.md
+# - Use Cases:
 #     - Authorization: open-banking/use-cases/authz.md
 #     - CIBA: open-banking/use-cases/ciba.md
 #     - Consent Management: open-banking/use-cases/consent.md
 #     - Dynamic Client Registration: open-banking/use-cases/dynamic-registration.md
 #     - Identity: open-banking/use-cases/identity.md
-    - Operation Guide:
+  - Operation Guide:
       - Configuration Instructions: open-banking/configuration-instructions.md
       - Managing scripts with CURL: open-banking/curl.md
       - Managing Scripts with the jans-cli: open-banking/jans-cli.md
-    - Custom Scripts:
+  - Custom Scripts:
       - Client Registration: open-banking/scripts/client-registration.md
       - Person Authentication: open-banking/scripts/person-authentication.md
       - Introspection: open-banking/scripts/introspection.md
       - Update Token: open-banking/scripts/update-token.md
-    - Tutorials:
+  - Tutorials:
       - Install on EKS: open-banking/tutorials/cn-prod-tutorial.md
-#   - Key Management: open-banking/key-management.md
-#   - Requirements by Country:
+# - Key Management: open-banking/key-management.md
+# - Requirements by Country:
 #     - Australia: open-banking/country/australia-reqs.md
 #     - Brazil: open-banking/country/brazil-reqs.md
 #     - Germany: open-banking/country/germany-reqs.md
 #     - Hong Kong: open-banking/country/hk-reqs.md
-  - Super Gluu:
-    - Overview: 'super-gluu/index.md'
-    - User Guide: 'super-gluu/user-guide/index.md'
+- Super Gluu:
+  - Overview: 'super-gluu/index.md'
+  - User Guide: 'super-gluu/user-guide/index.md'
     - Administration Guide: 'super-gluu/admin-guide/index.md'
     - Developer Guide: 'super-gluu/developer-guide/index.md'apan-reqs.md
-  - Super Gluu:
-   - Overview: 'index.md'
+
