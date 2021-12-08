@@ -1,0 +1,1 @@
+# Singapore Open Banking Requirements

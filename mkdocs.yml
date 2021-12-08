@@ -19,12 +19,13 @@ google_analytics:
 # Theme
 theme: 
     name: material
-    custom_dir: 'theme'
     palette:
         primary: 'green'
         accent: 'green'
     logo: 'gluu.jpg'
     favicon: 'favicon.ico'
+    features:
+      - 'navigation.tabs'
     
 # extensions    
 markdown_extensions:
@@ -34,5 +35,38 @@ markdown_extensions:
      
 # Navigation
 nav:
-- Products: 'index.md'
-
+- Main: 'index.md'
+- Products:
+  - Gluu Open Banking:
+    - Overview: open-banking/index.md
+    - Installation: open-banking/install-cn.md
+#   - Use Cases:
+#     - Authorization: open-banking/use-cases/authz.md
+#     - CIBA: open-banking/use-cases/ciba.md
+#     - Consent Management: open-banking/use-cases/consent.md
+#     - Dynamic Client Registration: open-banking/use-cases/dynamic-registration.md
+#     - Identity: open-banking/use-cases/identity.md
+    - Operation Guide:
+      - Configuration Instructions: open-banking/configuration-instructions.md
+      - Managing scripts with CURL: open-banking/curl.md
+      - Managing Scripts with the jans-cli: open-banking/jans-cli.md
+    - Custom Scripts:
+      - Client Registration: open-banking/scripts/client-registration.md
+      - Person Authentication: open-banking/scripts/person-authentication.md
+      - Introspection: open-banking/scripts/introspection.md
+      - Update Token: open-banking/scripts/update-token.md
+    - Tutorials:
+      - Install on EKS: open-banking/tutorials/cn-prod-tutorial.md
+#   - Key Management: open-banking/key-management.md
+#   - Requirements by Country:
+#     - Australia: open-banking/country/australia-reqs.md
+#     - Brazil: open-banking/country/brazil-reqs.md
+#     - Germany: open-banking/country/germany-reqs.md
+#     - Hong Kong: open-banking/country/hk-reqs.md
+  - Super Gluu:
+    - Overview: 'super-gluu/index.md'
+    - User Guide: 'super-gluu/user-guide/index.md'
+    - Administration Guide: 'super-gluu/admin-guide/index.md'
+    - Developer Guide: 'super-gluu/developer-guide/index.md'apan-reqs.md
+  - Super Gluu:
+   - Overview: 'index.md'
