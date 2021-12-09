@@ -36,7 +36,7 @@ markdown_extensions:
 # Navigation
 nav:
 - Main: 'index.md'
-- Gluu Casa:
+- Casa:
   - Home: 'casa/index.md'    
   - Release Notes : 'casa/release-notes.md'
   - Quick Start : 'casa/quick-start.md'
@@ -76,6 +76,9 @@ nav:
     - 'Other topics':
         - 'Plugin development tips': 'casa/developer/tips-development.md'
         - 'Plugin management internals': 'casa/developer/plugin-management-internals.md'
+        - 'Configuration API': 'casa/developer/config-api.md'
+        - 'FAQ': 'casa/developer/faq.md'
+  - User Guide : 'casa/user-guide.md'
 - oxd: 
   - Home: 'oxd/index.md'
   - Release Notes: 'oxd/release-notes/index.md'
