@@ -128,6 +128,16 @@ nav:
 #     - Brazil: open-banking/country/brazil-reqs.md
 #     - Germany: open-banking/country/germany-reqs.md
 #     - Hong Kong: open-banking/country/hk-reqs.md
+- Cluster Manager:
+  - Home: 'clustermgr/index.md'
+  - Architecture: 'clustermgr/architecture/index.md'
+  - Install: 'clustermgr/installation/index.md'
+  - Deploy Clusters: 'clustermgr/deploy/index.md'
+  - Configure AWS Load Balancer: 'clustermgr/aws-config/index.md'
+  - Operation Guide:
+    - 'Upgrades': 'clustermgr/operations/upgrade.md'  
+    - 'Backups': 'clustermgr/operations/backup.md'  
+  - Troubleshooting: 'clustermgr/troubleshooting/index.md'
 - Super Gluu:
   - Overview: 'super-gluu/index.md'
   - User Guide: 'super-gluu/user-guide/index.md'
