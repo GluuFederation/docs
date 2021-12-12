@@ -1,0 +1,284 @@
+#Project Details
+site_name: Gluu Documentation
+site_description: Documentation for Gluu software products
+
+# copyright
+copyright: Copyright &copy; 2021, Gluu, Inc.
+
+# configuration
+docs_dir: source
+repo_name: GluuFederation/docs
+repo_url: https://github.com/GluuFederation/docs
+edit_uri: edit/master/source
+
+# Tracking
+google_analytics:
+  - 'UA-31008645-7'
+  - 'auto'
+
+# Theme
+theme: 
+    name: material
+    palette:
+        primary: 'green'
+        accent: 'green'
+    logo: 'gluu.jpg'
+    favicon: 'favicon.ico'
+    features:
+      - 'navigation.tabs'
+    
+# extensions    
+markdown_extensions:
+- admonition
+- toc:
+     permalink: '#'
+     
+# Navigation
+nav:
+- Main: 'index.md'
+- Gluu Server:
+  - Overview: 'gluu-server/index.md'
+  - Release Notes: 'gluu-server/release-notes/index.md'
+  - Whats new in v4: 'gluu-server/4.x-intro.md'
+  - Installation Guide:
+        - 'VM Preparation': 'gluu-server/installation-guide/index.md'
+        - 'Installation':
+#            - 'Start here': 'gluu-server/installation-guide/install.md'
+#            - 'Test Drive': 'gluu-server/installation-guide/test-drive.md'
+            - 'Kubernetes': 'gluu-server/installation-guide/install-kubernetes.md'
+            - 'Docker': 'gluu-server/installation-guide/install-docker.md'
+            - 'Ubuntu': 'gluu-server/installation-guide/install-ubuntu.md'
+            - 'RHEL': 'gluu-server/installation-guide/install-rhel.md'
+            - 'CentOS': 'gluu-server/installation-guide/install-centos.md'
+            - 'SUSE': 'gluu-server/installation-guide/install-suse.md'
+        - 'Setup Script Options': 'gluu-server/installation-guide/setup_py.md'
+#        - 'Upgrade to 4.3': 'gluu-server/upgrade/index.md'
+        - 'Clustering': 'gluu-server/installation-guide/cluster.md'
+  - Administration Guide:
+        - 'oxTrust admin UI': 'gluu-server/admin-guide/oxtrust-ui.md'
+        - 'Interception Scripts': 'gluu-server/admin-guide/custom-script.md'
+        - User Management:
+            - 'Local User Management': 'gluu-server/user-management/local-user-management.md'
+            - 'AD/LDAP Synchronization': 'gluu-server/user-management/ldap-sync.md'
+            - 'IDM Synchronization': 'gluu-server/user-management/idm-sync.md'
+            - 'User Registration': 'gluu-server/user-management/user-registration.md'
+            - 'Collecting Metrics': 'gluu-server/user-management/metrics.md'
+            - 'SCIM 2.0 User Management': 'gluu-server/user-management/scim2.md'
+            - 'SCIM custom scripts': 'gluu-server/user-management/scim-scripting.md'
+        - User Authentication:
+            - 'Introduction': 'gluu-server/authn-guide/intro.md'
+            - 'Basic Authentication': 'gluu-server/authn-guide/basic.md'
+            - 'FIDO 2.0': 'gluu-server/authn-guide/fido2.md'
+            - 'Passwordless Authn': 'gluu-server/authn-guide/passwordless.md'
+            - 'Super Gluu': 'gluu-server/authn-guide/supergluu.md'
+            - 'OTP apps': 'gluu-server/authn-guide/otp.md'
+            - 'SMS OTP (Twilio)': 'gluu-server/authn-guide/sms-otp.md'
+            - 'SMS OTP (SMPP)': 'gluu-server/authn-guide/sms-otp-smpp.md'
+            - 'PingID': 'gluu-server/authn-guide/pingid.md'
+            - 'Duo Security': 'gluu-server/authn-guide/duo.md'
+            - 'ThumbSignIn': 'gluu-server/authn-guide/thumbsignin.md'
+            - 'FIDO U2F': 'gluu-server/authn-guide/U2F.md'
+            - 'Certificate Authentication': 'gluu-server/authn-guide/cert-auth.md'
+            - 'Account Lockout': 'gluu-server/authn-guide/lockout.md'
+            - 'Forgot Password': 'gluu-server/authn-guide/pw-reset.md'
+            - 'Custom Script Tutorial': 'gluu-server/authn-guide/customauthn.md'
+        - Inbound Identity:
+            - 'Introduction': 'gluu-server/authn-guide/passport.md'
+            - 'Inbound OAuth & OpenID Connect': 'gluu-server/authn-guide/inbound-oauth-passport.md'
+            - 'Inbound SAML': 'gluu-server/authn-guide/inbound-saml-passport.md'
+        - 'RADIUS':
+            - 'Gluu Radius': 'gluu-server/admin-guide/radius-server/gluu-radius.md'
+            - 'Radiator Plugin': 'gluu-server/admin-guide/radius-server/gluu-radiator.md'
+        - 'CIBA':
+            - 'OpenID Connect CIBA': 'gluu-server/admin-guide/ciba.md'
+            - 'FAPI-CIBA': 'gluu-server/admin-guide/fapi-ciba.md'
+        - 'Attributes': 'gluu-server/admin-guide/attribute.md'
+        - 'SAML IDP': 'gluu-server/admin-guide/saml.md'
+        - 'OpenID Connect Provider (OP)': 'gluu-server/admin-guide/openid-connect.md'
+        - 'UMA Authorization Server (AS)': 'gluu-server/admin-guide/uma.md'
+        - 'Central Authentication Service (CAS)': 'gluu-server/admin-guide/cas.md'
+        - 'OAuth2.0 Device Authorization Grant': gluu-server/admin-guide/device-authz-grant/
+        - 'Session Management': 'gluu-server/admin-guide/session.md'
+        - 'Certificate Management': 'gluu-server/admin-guide/certificate.md'
+        - 'CORS Configuration': 'gluu-server/admin-guide/cors.md'
+  - Integration Guide:
+        - 'Introduction': 'gluu-server/integration/index.md'
+        - 'Server Side Web Apps':
+            - 'OAuth2 Grants': 'gluu-server/admin-guide/oauth2.md'
+            - 'oxd OAuth 2.0': 'gluu-server/integration/oxd-oauth2/index.md'
+            - 'Nginx lua-resty-openidc': 'gluu-server/integration/sswebapps/nginx.md'
+            - 'Apache mod_auth_openidc': 'gluu-server/integration/sswebapps/openidc-rp.md'
+            - 'Shibboleth SAML SP': 'gluu-server/integration/sswebapps/saml-sp.md'
+        - 'Single Page Apps':
+            - 'AppAuth JS': 'gluu-server/integration/spa/appauth-js.md'
+            - 'Gluu OIDC JS Client': 'gluu-server/integration/spa/oauth-js-implicit.md'
+        - 'Native Apps':
+            - 'AppAuth iOS and macOS': 'gluu-server/integration/native-apps/appauth-ios.md'
+            - 'AppAuth Android': 'gluu-server/integration/native-apps/appauth-android.md'
+        - 'SaaS / Off-the-shelf Apps':
+            - 'Google Apps': 'gluu-server/integration/saas/google.md'
+            - 'Office 365': 'gluu-server/integration/saas/office.md'
+            - 'Moodle': 'gluu-server/integration/saas/moodle.md'
+            - 'Salesforce': 'gluu-server/integration/saas/salesforce.md'
+            - 'Dropbox': 'gluu-server/integration/saas/dropbox.md'
+            - 'GitHub Enterprise': 'gluu-server/integration/saas/github-enterprise.md'
+            - 'Cisco WebEx': 'gluu-server/integration/saas/webex.md'
+            - 'Amazon Web Services (AWS)': 'gluu-server/integration/saas/aws.md'
+            - 'Rocketchat': 'gluu-server/integration/saas/rocketchat.md'
+            - 'SAMLtest.id': 'gluu-server/integration/saas/saml_test_id.md'
+  - Reference:
+        - Gluu API Guide:
+            - 'Gluu Server API': 'gluu-server/api-guide/api.md'
+            - 'OpenID Connect API': 'gluu-server/api-guide/openid-connect-api.md'
+            - 'SCIM API': 'gluu-server/api-guide/scim-api.md'
+            - 'UMA API': 'gluu-server/api-guide/uma-api.md'
+        - 'JSON Properties':
+            - 'oxTrust JSON Properties': 'gluu-server/reference/JSON-oxtrust-prop.md'
+            - 'oxAuth JSON Properties': 'gluu-server/reference/JSON-oxauth-prop.md'
+            - 'Cache Provider Configuration': 'gluu-server/reference/cache-provider-prop.md'
+        - 'Persistence Strategies':
+            - 'Persistence Mechanisms': 'gluu-server/reference/persistence.md'
+            - 'oxLDAP Properties': 'gluu-server/reference/oxldap.md'
+            - 'LDAP Schema': 'gluu-server/reference/schema.md'
+        - 'Kubernetes and Containers Technical Reference':
+            - 'Config and Secret Keys': 'gluu-server/reference/container-configs.md'
+            - 'Image References': 'gluu-server/reference/container-image-refs.md'
+  - Operation Guide:
+        - 'Service Commands': 'gluu-server/operation/services.md'
+#        - 'Patches': 'gluu-server/upgrade/patches.md'
+        - 'Backups': 'gluu-server/operation/backup.md'
+        - 'CE to CN Migration': 'gluu-server/operation/ce_to_cn_migration.md'
+        - 'Security tips': 'gluu-server/operation/security.md'
+        - 'Performance tuning': 'gluu-server/operation/fine-tuning.md'
+        - 'Ports': 'gluu-server/operation/ports.md'
+        - 'Logout': 'gluu-server/operation/logout.md'
+        - 'Log Management' : 'gluu-server/operation/logs.md'
+        - 'Customize Public Pages': 'gluu-server/operation/custom-design.md'
+        - 'Change IP Address': 'gluu-server/operation/changeip.md'
+        - 'Server Clean-up': 'gluu-server/operation/cleanup.md'
+        - 'Replacing Expired JKS Files': 'gluu-server/operation/replace-expired-jks-scim.md'
+        - 'Auto-enrolled users clean-up': 'gluu-server/operation/auto-enrolled-users-clean.md'
+  - Developer Guide:
+#        - 'Build oxTrust with Eclipse': 'gluu-server/developer-guide/oxtrust-eclipse.md'
+        - 'Coding custom scripts and pages': 'gluu-server/developer-guide/tips-cust-script-pages.md'
+        - 'Localization': 'gluu-server/developer-guide/localization.md'
+        - 'Script Debugging': 'gluu-server/developer-guide/script-debugging.md'
+  - Tutorials:
+        # - 'The billion load test': 'tutorials/load-test.md' # hide test until officially tested
+        - 'A 2k Benchmark': 'gluu-server/tutorials/2k-benchmark.md'
+        - 'Impossible Travel with Deduce': 'gluu-server/tutorials/impossible-travel.md'
+        - 'LDAP cloud native multi cluster setup': 'gluu-server/tutorials/cn-ldap-multi-cluster.md'
+        - 'Install Gluu CN with ALB controller': 'gluu-server/tutorials/cn-aws-alb.md'
+        - 'Install Gluu CN with Rancher or RKE': 'gluu-server/tutorials/install-rancher.md'
+        - 'Attributes mapping and transformation in Passport': 'gluu-server/tutorials/passport-attributes-mapping.md'
+        - 'Inbound Identity with Apple Sign In': 'gluu-server/tutorials/passport-apple.md'
+        - 'Inbound SAML with Passport': 'gluu-server/tutorials/passport-inbound-flow.md'
+        - 'Inbound openid-client with Passport': 'gluu-server/tutorials/passport-openid-client.md'
+- Casa:
+  - Overview: 'casa/index.md'    
+  - Release Notes : 'casa/release-notes.md'
+  - Quick Start : 'casa/quick-start.md'
+  - Installation: 'casa/administration/installation.md'
+  - Administration Guide: 
+    - 'About 2FA': 'casa/administration/2fa-basics.md'
+    - 'Admin console': 'casa/administration/admin-console.md'
+    - 'Credentials storage': 'casa/administration/credentials-stored.md'
+    - 'Custom branding': 'casa/administration/custom-branding.md'
+    - 'URL path customization': 'casa/administration/change-context-path.md'
+    - 'Localization': 'casa/administration/localization.md'
+    - 'Plugins':
+        - '2FA Settings': 'casa/plugins/2fa-settings.md'    
+        - 'Accounts linking': 'casa/plugins/account-linking.md'
+        - 'BioID': 'casa/plugins/bioid.md'
+        - 'DUO': 'casa/plugins/duo.md'
+        - 'Consent Management': 'casa/plugins/consent-management.md'
+        - 'Custom Branding': 'casa/plugins/custom-branding.md'
+        - 'Certificate authentication': 'casa/plugins/cert-authn.md'
+        - 'Write your own plugin': 'casa/plugins/writing-plugins.md'
+    - 'FAQ': 'casa/administration/faq.md'
+  - Developer Guide:
+    - 'Intro': 'casa/developer/index.md'
+    - 'The basics':
+        - 'Architectural details': 'casa/developer/architecture.md'
+        - 'Intro to plugin development': 'casa/developer/intro-plugin.md'
+        - 'Writing your first plugin': 'casa/developer/writing-first.md'
+    - 'Common tasks':
+        - 'Working with menus': 'casa/developer/menus.md'
+        - 'Adding UI pages': 'casa/developer/ui-pages.md'
+        - 'Manipulating LDAP data': 'casa/developer/ldap-data.md'
+        - 'Adding REST services': 'casa/developer/rest-services.md'
+    - 'Adding authentication methods':
+        - 'Introduction': 'casa/developer/authn-methods/index.md'
+        - 'Coding authentication logic' : 'casa/developer/authn-methods/authn-logic.md'
+        - 'Coding enrollment logic': 'casa/developer/authn-methods/credentials-management.md'
+    - 'Other topics':
+        - 'Plugin development tips': 'casa/developer/tips-development.md'
+        - 'Plugin management internals': 'casa/developer/plugin-management-internals.md'
+        - 'Configuration API': 'casa/developer/config-api.md'
+        - 'FAQ': 'casa/developer/faq.md'
+  - User Guide : 'casa/user-guide.md'
+- oxd: 
+  - Overview: 'oxd/index.md'
+  - Release Notes: 'oxd/release-notes/index.md'
+  - Whats new in 4.x: 'oxd/4.x-intro.md'
+  - Install & Run: 'oxd/install/index.md'
+  - Tutorials:
+        - 'Sample Applications':
+            - 'Python': 'oxd/tutorials/python/index.md'
+            - 'Java': 'oxd/tutorials/java/index.md'
+            - 'Spring': 'oxd/tutorials/spring/index.md'
+        - 'Windows Installer': 'oxd/tutorials/windowsInstaller/index.md'
+  - Upgrade: 'oxd/upgrade/index.md'
+  - Configuration: 
+        - 'Configuration': 'oxd/configuration/oxd-configuration/index.md'
+        - 'H2': 'oxd/configuration/h2/index.md'
+        - 'Redis': 'oxd/configuration/redis/index.md'
+        - 'JDBC': 'oxd/configuration/jdbc/index.md'
+        - 'LDAP': 'oxd/configuration/ldap/index.md'
+        - 'Couchbase': 'oxd/configuration/couchbase/index.md'
+  - Logs: 'oxd/logs/index.md'
+  - API: 'oxd/api/index.md'
+  - Security Considerations: 'oxd/security/index.md'
+  - Tracing: 'oxd/tracing/index.md'
+- Gluu Open Banking:
+  - Overview: open-banking/index.md
+  - Installation: open-banking/install-cn.md
+# - Use Cases:
+#     - Authorization: open-banking/use-cases/authz.md
+#     - CIBA: open-banking/use-cases/ciba.md
+#     - Consent Management: open-banking/use-cases/consent.md
+#     - Dynamic Client Registration: open-banking/use-cases/dynamic-registration.md
+#     - Identity: open-banking/use-cases/identity.md
+  - Operation Guide:
+      - Configuration Instructions: open-banking/configuration-instructions.md
+      - Managing scripts with CURL: open-banking/curl.md
+      - Managing Scripts with the jans-cli: open-banking/jans-cli.md
+  - Custom Scripts:
+      - Client Registration: open-banking/scripts/client-registration.md
+      - Person Authentication: open-banking/scripts/person-authentication.md
+      - Introspection: open-banking/scripts/introspection.md
+      - Update Token: open-banking/scripts/update-token.md
+  - Tutorials:
+      - Install on EKS: open-banking/tutorials/cn-prod-tutorial.md
+# - Key Management: open-banking/key-management.md
+# - Requirements by Country:
+#     - Australia: open-banking/country/australia-reqs.md
+#     - Brazil: open-banking/country/brazil-reqs.md
+#     - Germany: open-banking/country/germany-reqs.md
+#     - Hong Kong: open-banking/country/hk-reqs.md
+- Cluster Manager:
+  - Overview: 'clustermgr/index.md'
+  - Architecture: 'clustermgr/architecture/index.md'
+  - Install: 'clustermgr/installation/index.md'
+  - Deploy Clusters: 'clustermgr/deploy/index.md'
+  - Configure AWS Load Balancer: 'clustermgr/aws-config/index.md'
+  - Operation Guide:
+    - 'Upgrades': 'clustermgr/operations/upgrade.md'  
+    - 'Backups': 'clustermgr/operations/backup.md'  
+  - Troubleshooting: 'clustermgr/troubleshooting/index.md'
+- Super Gluu:
+  - Overview: 'super-gluu/index.md'
+  - User Guide: 'super-gluu/user-guide/index.md'
+    - Administration Guide: 'super-gluu/admin-guide/index.md'
+    - Developer Guide: 'super-gluu/developer-guide/index.md'apan-reqs.md
+

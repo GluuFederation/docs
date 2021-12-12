@@ -1,0 +1,1 @@
+# Germany Open Banking Requirements

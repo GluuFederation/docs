@@ -1,0 +1,91 @@
+# Project information
+site_name: Gluu Casa 4.3 Docs
+site_description: Documentation for Gluu Casa
+
+# Copyright
+copyright: Copyright &copy; 2020, Gluu, Inc.
+
+# Repository
+repo_name: GluuFederation/docs-casa-prod
+repo_url: https://github.com/GluuFederation/docs-casa-prod/
+edit_uri: edit/4.3/docs/source
+docs_dir: source
+
+# Configuration
+theme: 
+    name: material
+#    custom_dir: theme
+    palette:
+        primary: 'green'
+        accent: 'green'
+    logo: 'gluu.jpg'
+    favicon: 'favicon.ico'
+extra:
+    version: '4.3'
+
+# Tracking
+google_analytics:
+  - 'UA-31008645-7'
+  - 'auto'
+  
+# Extensions    
+markdown_extensions:
+- admonition
+- toc:
+     permalink: '#'
+- pymdownx.superfences
+
+
+#    - 'Uninstallation and clean up': 'administration/uninstallation.md'
+# Navigation Menu
+nav:
+- 'Versions':
+    - '4.3': 'https://gluu.org/docs/casa/4.3/'
+    - '4.2': 'https://gluu.org/docs/casa/4.2/'
+    - '4.1': 'https://gluu.org/docs/casa/4.1/'
+    - '4.0': 'https://gluu.org/docs/casa/4.0/'
+    - '3.1.6': 'https://gluu.org/docs/casa/3.1.6/'
+- ' ': 'https://gluu.org'
+- ' ': 'https://gluu.org'
+- Home: 'index.md'    
+- Release Notes : 'release-notes.md'
+- Quick Start : 'quick-start.md'
+- 'Installation': 'administration/installation.md'
+- Administration Guide: 
+    - 'About 2FA': 'administration/2fa-basics.md'
+    - 'Admin console': 'administration/admin-console.md'
+    - 'Credentials storage': 'administration/credentials-stored.md'
+    - 'Custom branding': 'administration/custom-branding.md'
+    - 'URL path customization': 'administration/change-context-path.md'
+    - 'Localization': 'administration/localization.md'
+    - 'Plugins':
+        - '2FA Settings': 'plugins/2fa-settings.md'    
+        - 'Accounts linking': 'plugins/account-linking.md'
+        - 'BioID': 'plugins/bioid.md'
+        - 'DUO': 'plugins/duo.md'
+        - 'Consent Management': 'plugins/consent-management.md'
+        - 'Custom Branding': 'plugins/custom-branding.md'
+        - 'Certificate authentication': 'plugins/cert-authn.md'
+        - 'Write your own plugin': 'plugins/writing-plugins.md'
+    - 'FAQ': 'administration/faq.md'
+- Developer Guide:
+    - 'Intro': 'developer/index.md'
+    - 'The basics':
+        - 'Architectural details': 'developer/architecture.md'
+        - 'Intro to plugin development': 'developer/intro-plugin.md'
+        - 'Writing your first plugin': 'developer/writing-first.md'
+    - 'Common tasks':
+        - 'Working with menus': 'developer/menus.md'
+        - 'Adding UI pages': 'developer/ui-pages.md'
+        - 'Manipulating LDAP data': 'developer/ldap-data.md'
+        - 'Adding REST services': 'developer/rest-services.md'
+    - 'Adding authentication methods':
+        - 'Introduction': 'developer/authn-methods/index.md'
+        - 'Coding authentication logic' : 'developer/authn-methods/authn-logic.md'
+        - 'Coding enrollment logic': 'developer/authn-methods/credentials-management.md'
+    - 'Other topics':
+        - 'Plugin development tips': 'developer/tips-development.md'
+        - 'Plugin management internals': 'developer/plugin-management-internals.md'
+        - 'Configuration API': 'developer/config-api.md'
+        - 'FAQ': 'developer/faq.md'
+- User Guide : 'user-guide.md'
