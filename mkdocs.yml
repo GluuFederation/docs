@@ -1,6 +1,6 @@
 #Project Details
 site_name: Gluu Documentation
-site_description: Documentation for Gluu software products: mono-proc
+site_description: Documentation for Gluu software products
 
 # copyright
 copyright: Copyright &copy; 2021, Gluu, Inc.
