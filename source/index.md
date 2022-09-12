@@ -31,7 +31,7 @@ Two-factor authentication (2FA) app for iOS & Android using mobile push notifica
 ### Cluster Manager 
 A commercially licensed GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[4.3](./cm/4.3)][[4.2](./cm/4.2)][[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[EOL Versions](./eol.md)]
+[[4.4](./cm/4.4)] [[4.3](./cm/4.3)] [[4.2](./cm/4.2)] [[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
