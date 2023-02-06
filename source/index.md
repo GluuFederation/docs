@@ -11,7 +11,7 @@ See the end-of-life dates for all products [here](#end-of-life).
 ### Gluu Server 
 Identity & access management (IAM) platform for web & mobile single sign-on (SSO), two-factor authentication (2FA) and API access management. 
 
-[[4.4](./gluu-server/4.4)] [[4.3](./gluu-server/4.3)] [[4.2](./gluu-server/4.2)] [[4.1](./gluu-server/4.1)] [[4.0](./gluu-server/4.0)] [[EOL Versions](./eol.md)]
+[[4.5](./gluu-server/4.5)] [[4.4](./gluu-server/4.4)] [[4.3](./gluu-server/4.3)] [[EOL Versions](./eol.md)]
 
 ### Gluu Open Banking Platform
 Identity and access management (IAM) platform focused on Open Banking compliance and integration. 
@@ -21,7 +21,7 @@ Identity and access management (IAM) platform focused on Open Banking compliance
 ### Gluu Casa
 Self-service web portal for end-users to manage security preferences, like 2FA, for their account in a Gluu Server.  
 
-[[4.4](./casa/4.4)] [[4.3](./casa/4.3)] [[4.2](./casa/4.2)] [[4.1](./casa/4.1)] [[4.0](./casa/4.0)]
+[[4.4](./casa/4.4)] [[4.3](./casa/4.3)] 
 
 ### Super Gluu 
 Two-factor authentication (2FA) app for iOS & Android using mobile push notifications and FIDO U2F authentication.
@@ -31,12 +31,12 @@ Two-factor authentication (2FA) app for iOS & Android using mobile push notifica
 ### Cluster Manager 
 A commercially licensed GUI tool for installing and managing a highly available, clustered Gluu Server infrastructure on VMs.  
 
-[[4.4](./cm/4.4)] [[4.3](./cm/4.3)] [[4.2](./cm/4.2)] [[4.1](./cm/4.1)] [[4.0](./cm/4.0)] [[EOL Versions](./eol.md)]
+[[4.4](./cm/4.4)] [[4.3](./cm/4.3)] [[EOL Versions](./eol.md)]
 
 ### oxd OAuth client
 Client software to secure and integrate server-side web applications with an OAuth 2.0 Authorization Server (AS), like the Gluu Server.
 
-[[4.4](./oxd/4.4)] [[4.3](./oxd/4.3)] [[4.2](./oxd/4.2)] [[4.1](./oxd/4.1)] [[4.0](./oxd/4.0)]  [[EOL Versions](./eol.md)]
+[[4.4](./oxd/4.4)] [[4.3](./oxd/4.3)] [[EOL Versions](./eol.md)]
 
 
 ## End-of-Life
@@ -45,6 +45,7 @@ This schedule details the end-of-life dates for Gluu Server versions.
 
 | Version | Status | Release Date | Community EOL Date | Enterprise EOL Date  |
 | --- | --- | --- | --- | --- |
+| 4.5.x | Active | February 2023 | December 2026 | December 2028 |
 | 4.4.x | Active | May 2022 | December 2025 | December 2027 |
 | 4.3.x | Active | September 2021 | March 2024 | March 2025 |
 | 4.2.x | Active | July 2020 | December 2022 | December 2023 |
